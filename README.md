@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Site LOL</h1>
+<h1 align="center">Projeto Armazem</h1>
 
 <br>
 
