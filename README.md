@@ -14,6 +14,6 @@ Consiste em um armazem que utiliza de árvore binária para armazenar seus dados
 
 ## :computer: Instalação e execução <a name="-instalacao"/></a>
 
-1. Instale da JDK
+1. Instale a JDK
 2. Faça um clone desse repositório;
 3. Abra o projeto em uma IDE de sua preferência (NetBeans, Eclipse, VS Code, etc)
